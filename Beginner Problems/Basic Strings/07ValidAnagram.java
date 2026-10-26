@@ -16,6 +16,6 @@ class Solution {
             if(!map1.get(ch).equals(map2.get(ch)))
             return false;
         }
-        return true;
+        return true; 
     }
 }
